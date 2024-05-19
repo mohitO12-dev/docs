@@ -9,6 +9,11 @@ CatalogContent:
 - 'docs/content/python'
 - 'docs/content'
 
+Subjects:
+- 'Computer Science'
+- 'Data Science'
+- 'Data Visualization'
+
 Tags:
 - 'Python'
 - 'Functions'
